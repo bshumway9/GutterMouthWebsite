@@ -19,3 +19,5 @@ The website is structured to provide clear and concise information about the com
 ## Development Notes
 
 This website is built using standard HTML, CSS. The design aims for a clean and user-friendly experience, making it easy for potential customers to find the information they need and contact the company.
+
+![Screenshot 2025-04-30 222608](https://github.com/user-attachments/assets/a5efae07-2eaf-4676-a652-e00695d0c5ea)
